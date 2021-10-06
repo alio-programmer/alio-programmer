@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alio-programmer
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning and revising c++ and python
+- 📫 you can reach me via my other gmail id: gauravbisht82754@gmail.com
