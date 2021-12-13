@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms and input tags</title>
+</head>
+<body>
+    <h2>Forms</h2>
+    <div class="container">
+        <p>Following link has terms and condition please read before you submit the form.</p>
+        <a href="heading&body.html">Terms and Conditions</a>
+    </div>
+    <br>
+    <br>
+    <form action="backend.php">
+        <div>
+            <label name="Name">Name</label>
+            Name:<input type="text" name="Myname">
+        </div>
+        <br>
+        <div>
+            <label name="email">Email</label>
+            <input type="email" name="Myemail">
+        </div>
+        <br>
+        <div>
+            <label name="phone">Phone number</label>
+            <input type="number" name="Phonenumber">
+        </div>
+        <br>
+        <div>
+            <label name="birth">Date of birth:</label>
+            <input type="date" name="Dateofbirth">
+        </div>
+        <br>
+        <div>
+            <label name="summary"> Please write your story summary:</label>
+            <textarea name="Yourstory" cols=190 rows=10 ></textarea>
+        </div>
+        <br>
+        <div>
+            <label name="Gender">Gender</label>
+            Male <input type="radio" name="Mygender"> Female <input type="radio" name="Mygender"> 
+            Others <input type="radio" name="Mygender">
+            
+        </div>
+        <br>
+        <div>
+            <label for="Genre">Genre</label>
+            <select name="Genre" id="Genre">
+            <option >Action</option>
+            <option >Slice of life</option>
+            <option >Shounen</option>
+            <option >Horro</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label name="eligibility">Do you agree to the terms and condition:</label>
+            <input type="checkbox">
+        </div>
+        <br>
+        <div>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset Information">
+        </div>
+    </form>
+    
+</body>
+</html>
