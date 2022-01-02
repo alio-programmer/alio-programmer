@@ -1,0 +1,99 @@
+.header{
+    border: 15px groove yellowgreen;
+    border-radius:9px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-color: peachpuff;
+    padding: 10px;
+    margin: 10px;
+    position:relative ;
+    top: 10px;
+    left: 330px ;
+    width: 800px ;
+    color: rgb(240, 13, 172);
+
+}
+.factshead{
+    border: 5px solid black;
+    border-radius:9px;
+    text-align: center;
+    font-family: cursive;
+    font-size:30px ;
+    background-color: peachpuff;
+    padding: 5px;
+    margin: 30px;
+    width: 200px ;
+
+}
+#fact1{
+    border: 5px solid red;
+    border-radius: 5px;
+    text-align: center;
+    font-family:'Licorice', cursive;
+    width: 200px;
+    margin:15px;
+    font-size:20px;
+    padding:30px;
+    background-color:aqua;
+
+}
+#fact2{
+    border: 5px solid red;
+    border-radius: 5px;
+    text-align: center;
+    font-family:'Licorice', cursive;
+    width: 200px;
+    margin: 15px;
+    font-size:20px;
+    padding:30px;
+    background-color:aqua;
+    
+}
+#fact3{
+    border: 5px solid red;
+    border-radius: 5px;
+    text-align: center;
+    font-family:'Licorice', cursive;
+    width: 200px;
+    margin: 15px;
+    font-size:20px;
+    padding:30px;
+    background-color:aqua;
+    
+}
+.infobox{
+    border: 10px groove blue;
+    border-radius: 5px;
+    width: 1100px;
+    font-size: xx-large;
+    position: absolute;
+    padding:10px;
+    top:740px;
+    right:50px;
+    background-color: pink;
+    font-family:'Pushster', cursive;
+}
+.img{
+    border: 10px solid black;
+    border-radius: 5px;
+    position: absolute;
+    top: 250px;
+    right: 200px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-right:5px;
+    padding-left:5px;
+    width:auto;
+    background-color: aquamarine;
+}
+.footer{
+    background-color: grey;
+    border: 1px solid white;
+    padding:10px;
+    margin:10px;
+    width: 1440px;
+    font-family: 'Pushster', cursive;
+    font-size:15px;
+    border-radius: 7px;
+}
