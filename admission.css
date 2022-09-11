@@ -1,0 +1,102 @@
+body{
+    background-image: url(images/green-background-with-fading-square-and-dots-free-vector.jpg);
+    background-size: 100%;
+    background-repeat:repeat-y;
+}
+
+.header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border-radius: 30px;
+    margin-top: 30px;
+    background-color: green;
+    font-size: 70px;
+    font-style: italic;
+    text-decoration: underline;
+    padding: 20px;
+    color: white;
+    animation: mymove2  5s;
+    animation-iteration-count: 1;
+    right:0%
+}
+
+@keyframes mymove2{
+    from {right:1500px}
+    to {right:0px}
+}
+
+.admissionslinks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    list-style-type: none;
+    background-color: chartreuse;
+    width: 500px;
+    height: 48px;
+    border-radius: 20px;
+}
+.linksimp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 500px;
+    height: 48px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.linksimp:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 500px;
+    height: 48px;
+    background-color: aliceblue;
+    color: chartreuse;
+}
+.footersocialmedia{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    /* background-color: aqua;  */
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 25px;
+    
+}
+.footersocialmedia img{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: center;
+    align-items:center ;
+    width: 40px;
+    height: 40px;
+    margin-right: 30px;
+}
+div.footer{
+    display:flex;
+    margin-top:15px;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    color:white;
+    justify-content: center;
+    /* background-color: black; */
+    clear: both;
+}

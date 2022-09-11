@@ -1,0 +1,331 @@
+body{
+    background-image: url(images/234990.webp);
+    background-size: 100%;
+    background-repeat:repeat-y;
+}
+.navbar{
+    /* background-color:black ; */
+    border-radius: 10px;
+
+}
+.navbar ul{
+      overflow: auto;
+}
+.navbar li{
+    display: flex;
+    list-style: none;
+    float:left;
+    padding: 12px;
+
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.navbar a:hover{
+    color: black;
+}
+.navbar li:hover{
+    border-radius: 45%;
+    background-color: purple;
+}
+.navbar input{
+    float:right;
+    margin-top: 7px;
+    margin-right:10px;
+    border: 2px solid black;
+    padding:5px 30px;
+    color:white;
+    border-radius:9px;
+
+}
+.navbar input:focus{
+    background-color:grey;
+}
+div.infobox{
+    border: 3px solid purple;
+    border-radius:3% ;
+    text-align: center;
+    font-size: 20px;
+    width:70%;
+    height: 25%;
+    color: white;
+    margin: 25px;
+    margin-top: 0%;
+    float:right;
+    clear:right;
+    margin-bottom: 25px;
+}
+div.footer{
+    display:flex;
+    margin-top:15px;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    color:white;
+    /* background-color: black; */
+    clear: both;
+}
+div.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    width:100%;
+}
+.image{
+    border-radius: 50%;
+    margin-left: 30px;
+    width:225px;
+    height:240px;
+    background-color: white;
+}
+div.container2{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 3px solid black; */
+    border-radius: 30px;
+    padding: 15px;
+    font-size: 25px;
+    position: relative;
+    /* background-color: black; */
+    width:auto;
+    text-align: center;
+    height:auto;
+    margin:25px;
+    text-decoration: none;
+    animation: mymove 5s;
+    animation-iteration-count: 1;
+}
+@keyframes mymove{
+    from {right:1500px}
+    to {right:0px}
+}
+.homeimg{
+    width:100%;
+    height:100%;
+    border-radius: 20px;
+    
+}
+div.maincontainer{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+div.container3{
+    display:flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width:80%;
+    margin-top: 2%;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+    animation: mymove2  5s;
+    animation-iteration-count: 1;
+    right:0%
+}
+.containerheader{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+}
+.header{
+    color: white;
+    text-decoration:underline;
+    text-shadow: #afccc7;
+}
+.accredation{
+    color: white;
+}
+.accredation h5{
+    display: flex;
+    flex-direction: column;
+    float:right;
+
+}
+.newsectionmain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 10px;
+    /* background-color:black; */
+}
+.newsection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    width:fit-content;
+    margin: 15px;
+}
+.newsection h3{
+    display:flex;
+    padding: 15px;
+    font-size: 30px;
+    justify-content: center;
+    text-decoration: underline;
+    border-radius: 10px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center;
+    
+}
+.info #awarded{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.info #naac{
+    display: flex;
+    justify-content: center;
+    margin: 4px;
+}
+.infolite{
+    display:flex;
+    justify-content: center;
+    margin: 2px;
+}
+.news1{
+    display: flex;
+    width:100%;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(71, 11, 71);
+}
+.news1 a{
+    display:flex;
+    justify-content: center;
+    font-size: 20px;
+    width: 450px;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+.news1 h3{
+    font-size: 40px;
+    color:white;
+} 
+.news2 h3{
+    font-size: 40px;
+    color: white;
+}
+.news2{
+    display: flex;
+    width: 100%;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(71, 11, 71);
+}
+.news2 a{
+    display:flex;
+    justify-content: center;
+    font-size: 20px;
+    width: 450px;
+    margin: 5px;
+    color:white;
+    text-decoration: none;
+}
+.newsectionmain a:hover{
+    color:red;
+}
+.newsectionmain li{
+    display: flex;
+    list-style-type: none;
+    width: 450px;
+    border-radius: 25px;
+    margin: 5px;
+}
+.newsectionmain li:hover{
+    display: flex;
+    background-color: black;
+}
+.section3main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.section3main img{
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+    width: 400px ;
+    height: 300px;
+    padding: 20px;
+}
+.fontinimage{
+    margin: 5px;
+    color:white;
+    /* background-color: #dfe8e6; */
+    padding: 2px;
+    border-radius: 5px;
+}
+.section3main img:hover{
+    background-color: grey;
+}
+.footersocialmedia{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    /* background-color: black; */
+    margin: 10px;
+    border-radius: 25px;
+}
+.footersocialmedia img{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: center;
+    align-items:center ;
+    width: 40px;
+    height: 40px;
+    margin-right: 30px;
+}
+.contactinfo{
+    /* background-color: black; */
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+.phoneno{
+    font-size:20px;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mailid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color:white;
+}
