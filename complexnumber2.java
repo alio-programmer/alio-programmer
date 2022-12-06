@@ -56,4 +56,6 @@ public class NewClass {
         Complex C4 = new Complex();
         C4.addcomp(C1,C2);
         C4.printcomp();
+    }
+}
         
