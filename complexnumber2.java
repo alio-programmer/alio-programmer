@@ -1,61 +1,65 @@
 import java.util.*;
 class Complex{
-    
     float real;
     float img;
-    
-    void set(float a, float b){
-        real = a;
-        img = b;
+    void set_ri(float real, float img){
+        this.real=real;
+        this.img=img;
     }
-    
-    Complex addcomp(Complex C1, Complex C2){
+    Complex addComp(Complex C1, Complex C2)
+    {
         Complex temp = new Complex();
         temp.real = C1.real + C2.real;
-        temp.img = C1.img+ C2.img;
-        
+        temp.img = C1.img + C2.img;
         return temp;
     }
-    
-    Complex subcomp(Complex C1, Complex C2){
+    Complex subComp(Complex C1, Complex C2)
+    {
         Complex temp = new Complex();
         temp.real = C1.real - C2.real;
         temp.img = C1.img - C2.img;
-        
         return temp;
     }
-    
-    void printcomp(){
-        System.out.print("complex number is:"+real+"+"+img+"i"+"\n");
+    void printComplexNumber(){
+        System.out.println("the imaginary number is:"+real+" + "+img+"i");
     }
-    
     
 }
-public class NewClass {
-    
-    public static void main(String args[]){
-        float real;
-        float img;
-        Scanner obj1 = new Scanner(System.in);
-        System.out.println("ENTER THE REAL PART OF FIRST NUMBER");
-        real = obj1.nextFloat();
-        System.out.println("ENTER THE IMAGAINARY PART OF FIRST NUMBER");
-        img = obj1.nextFloat();
+
+public class exception1 {
+    public static void main(String[] args) {  
+        float real1;
+        float img1;
         Complex C1 = new Complex();
-        C1.set(real, img);
+        System.out.println("enter the real part of 1st number:");
+        Scanner obj1 = new Scanner(System.in);
+        real1 = obj1.nextFloat();
+        System.out.println("enter the imaginary part of 1st number:");
         Scanner obj2 = new Scanner(System.in);
-        System.out.println("ENTER THE REAL PART OF SECOND NUMBER");
-        real = obj2.nextFloat();
-        System.out.println("ENTER THE IMAGINARY PART OF SECOND NUMBER");
-        img = obj2.nextFloat();
+        img1 = obj2.nextFloat();
+        C1.set_ri(real1, img1);
+        C1.printComplexNumber();
+        System.out.println("\n");
         Complex C2 = new Complex();
-        C2.set(real, img);
+        System.out.println("enter the real part of 2nd number:");
+        Scanner obj3 = new Scanner(System.in);
+        real1 = obj3.nextFloat();
+        System.out.println("enter the imaginary part of 2nd number:");
+        Scanner obj4 = new Scanner(System.in);
+        img1 = obj4.nextFloat();
+        C2.set_ri(real1, img1);
+        C2.printComplexNumber();
+        System.out.println("\n");
         Complex C3 = new Complex();
-        C3.addcomp(C1,C2);
-        C3.printcomp();
-        Complex C4 = new Complex();
-        C4.addcomp(C1,C2);
-        C4.printcomp();
+        C3 = C3.addComp(C1, C2);
+        System.out.print("Sum of ");
+        C3.printComplexNumber();
+        System.out.println("\n");
+        C3 = C3.subComp(C1, C2);
+        System.out.print("Difference of ");
+        C3.printComplexNumber();
+        System.out.println("\n");
     }
+    
 }
         
