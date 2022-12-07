@@ -22,6 +22,10 @@ class Complex{
     void printComplexNumber(){
         System.out.println("the imaginary number is:"+real+" + "+img+"i");
     }
+    
+}
+
+public class exception1 {
     public static void main(String[] args) {
         Complex C1 = new Complex();
         C1.real=3;
@@ -45,3 +49,4 @@ class Complex{
     }
     
 }
+
