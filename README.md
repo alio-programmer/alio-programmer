@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @alio-programmer
-- 👀 I’m interested in web development
-- 🌱 I’m currently at intermediate level in both C++ and Python
-- I am proficient in using Html and CSS to make basic and beutiful websites and will soon be completing javascript to take it to advance level
-- 📫 you can reach me via my other gmail id: gauravbisht82754@gmail.com
