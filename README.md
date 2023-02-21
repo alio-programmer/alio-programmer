@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alio-programmer
-- 👀 I’m interested in web development
-- 🌱 I’m currently at intermediate level in both C++ and Python
-- I am proficient in using Html and CSS to make basic and beutiful websites and will soon be completing javascript to take it to advance level
-- 📫 you can reach me via my other gmail id: gauravbisht82754@gmail.com
+- Hi, I’m Gaurav Singh Bisht aka alio-programmer
+- I am proficient in languages like C++, Python, Java, Oracle database(SQL)
+- I am planning to learn C#, and python libraries like pandas, Numpy, Matplotlib, pyspark etc.
+- I am also planning on studying advance level statistics and discrete mathematics.
+- I also do fullsatck web development as hobby and worked on some university level projects in past.
