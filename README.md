@@ -1,5 +1,6 @@
 - Hi, I’m Gaurav Singh Bisht aka alio-programmer
 - I am proficient in languages like C++, Python, Java, Oracle database(SQL)
-- I am planning to learn C#, and python libraries like pandas, Numpy, Matplotlib, pyspark etc.
-- I am also planning on studying advance level statistics and discrete mathematics.
-- I also do fullsatck web development as hobby and worked on some university level projects in past.
+- I am planning to learn C#, and python libraries pytorch, keras, opencv, pyspark etc.
+- I am also studying advance level statistics and maths.
+- I also do fullsatck web development as hobby and worked on some university level projects.
+- I am also learning MERN stack development.
