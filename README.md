@@ -23,5 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alio-programmer&show_icons=true&locale=en&layout=compact" alt="alio-programmer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alio-programmer&" alt="alio-programmer" /></p>
-<img align="right" alt="cool" width="800" src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif">
-<img align="right" alt="cool" width="400" src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif">
+<img align="centre" alt="cool" width="1000" src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif">
