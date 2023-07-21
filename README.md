@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh Bisht</h1>
 <h3 align="center">Aspiring SDE and Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0095794c-6589-497e-8f7f-4fdf36520fc9/de7wktw-b7d1006b-0634-4be5-87f4-be0f2f620484.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/a0/4d/2ea04d1328e24c8518401cc1f857b4ee.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alio-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="alio-programmer" /> </p>
 
