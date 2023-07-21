@@ -1,6 +1,8 @@
 <style>
-    background-image: url(https://undsgn.com/wp-content/uploads/2018/04/ltotbngnzzu-uai-1600x900.jpg);
-    background-size: 100%;
+    .body(
+        background-image: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif);
+        background-size: 100%;
+    }
 </style>
 <h1 align="center">Hi 👋, I'm Gaurav Singh Bisht</h1>
 <h3 align="center">Aspiring SDE and Data Scientist</h3>
