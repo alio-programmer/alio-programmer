@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh Bisht</h1>
 <h3 align="center">Aspiring SDE and Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0095794c-6589-497e-8f7f-4fdf36520fc9/de7wktw-b7d1006b-0634-4be5-87f4-be0f2f620484.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwOTU3OTRjLTY1ODktNDk3ZS04ZjdmLTRmZGYzNjUyMGZjOVwvZGU3d2t0dy1iN2QxMDA2Yi0wNjM0LTRiZTUtODdmNC1iZTBmMmY2MjA0ODQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7wiAcNeALOETwWBFp18sjIcaKCz4CDLA18MeMSJCkfw)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alio-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="alio-programmer" /> </p>
 
