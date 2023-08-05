@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alio-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="alio-programmer" /> </p>
 
-- 🌱 I’m currently learning **DSA, Machine Learning, Deep Learning, ReactJS, NodeJS**
+- 🌱 I’m currently focusing mainly on **DSA, Machine Learning, Deep Learning, ReactJS, NodeJS and Linux OS**
 
 - 💬 Ask me about **DSA, Data Science, Statistics**
 
