@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **gauravsinghbisht3@gmail.com**
 
-- ⚡ Fun fact **I spend more time searching for project then actually making it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
