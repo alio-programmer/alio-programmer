@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently focusing mainly on **DSA, Machine Learning, Deep Learning, ReactJS, NodeJS and Linux OS**
 
-- 💬 Ask me about **DSA, Data Science, Statistics**
+- 💬 Ask me about **DSA, Fullstack Development, Data Science etc**
 
 - 📫 How to reach me **gauravsinghbisht3@gmail.com**
 
